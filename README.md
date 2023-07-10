@@ -1,2 +1,2 @@
-# belajar-java-sesi-2
+# Belajar Java Sesi 2
 Studi kasus Java dasar membuat aplikasi todolist
