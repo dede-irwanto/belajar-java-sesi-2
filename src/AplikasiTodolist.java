@@ -4,9 +4,9 @@ public class AplikasiTodolist {
     public static String[] model = new String[10];
     public static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
-        // testShowTodolist();
-        // testAddTodolist();
-        // testRemoveTodolist();
+        //testShowTodolist();
+        //testAddTodolist();
+        //testRemoveTodolist();
         testInput();
     }
     /**
