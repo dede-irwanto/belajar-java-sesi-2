@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="08dbea21-77fe-4ef1-9741-77e448f4d725" name="Changes" comment="Update Main class" />
+    <list default="true" id="ab3a7636-f7f6-46cd-b9ae-a489fd36575e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +16,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2SPlaosCHbJgduadicDEweZV5Os" />
+  <component name="ProjectId" id="2SQc8eppsotmuJukksKxw50qEqE" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -34,79 +34,22 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="AplikasiTodolist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AplikasiTodolist" />
-      <module name="belajar-java-sesi-2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.AplikasiTodolist" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="08dbea21-77fe-4ef1-9741-77e448f4d725" name="Changes" comment="" />
-      <created>1689056165376</created>
+      <changelist id="ab3a7636-f7f6-46cd-b9ae-a489fd36575e" name="Changes" comment="" />
+      <created>1689082090776</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1689056165376</updated>
-      <workItem from="1689056168629" duration="5343000" />
+      <updated>1689082090776</updated>
+      <workItem from="1689082094159" duration="131000" />
     </task>
-    <task id="LOCAL-00001" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1689056302101</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1689056302101</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Update Main class">
-      <option name="closed" value="true" />
-      <created>1689056327582</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1689056327582</updated>
-    </task>
-    <task id="LOCAL-00003" summary="ignore">
-      <option name="closed" value="true" />
-      <created>1689062800080</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1689062800080</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Update Main class">
-      <option name="closed" value="true" />
-      <created>1689062880940</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1689062880940</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="first commit" />
-    <MESSAGE value="ignore" />
-    <MESSAGE value="Update Main class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Main class" />
   </component>
 </project>
